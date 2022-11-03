@@ -1,0 +1,10 @@
+run:
+Ýlk sayiyi giriniz:5
+Ýkinci sayiyi giriniz:10
+Yapmak istediginiz islemi seciniz.
+1- Toplama 
+ 2- Cikarma
+ 3-carpma
+ 4-bolme
+3
+Sonuc = 50BUILD SUCCESSFUL (total time: 7 seconds)
